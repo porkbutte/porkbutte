@@ -1,0 +1,447 @@
+DateTime         | Product | Slot | Amount Accepted | Balance
+02-11-2022 03:34 PM | Heavy | C4 | $5.0 | $5.0
+02-11-2022 03:36 PM | Crunchie | B4 | $2.0 | $2.0
+02-11-2022 03:44 PM | Dr. Salt | C2 | $7.0 | $7.0
+02-11-2022 04:02 PM | Cola | C1 | $16.0 | $16.0
+02-11-2022 04:03 PM | Potato Crisps | A1 | $4.0 | $4.0
+02-11-2022 04:03 PM | ChangeTendered | N/A | $0.95 | 0.00
+02-11-2022 05:39 PM | U-Chews | D1 | $10.0 | $10.0
+02-11-2022 06:10 PM | U-Chews | D1 | $10.0 | $10.0
+02-11-2022 06:38 PM | Grain Waves | A3 | $10.0 | $10.0
+02-11-2022 07:00 PM | Dr. Salt | C2 | $10.0 | $10.0
+02-11-2022 07:00 PM | ChangeTendered | N/A | $8.5 | 0.00
+02-11-2022 07:03 PM | Heavy | C4 | $10.0 | $10.0
+02-11-2022 07:03 PM | ChangeTendered | N/A | $8.5 | 0.00
+02-11-2022 07:16 PM | Crunchie | B4 | $5.0 | $5.0
+02-11-2022 07:16 PM | ChangeTendered | N/A | $3.25 | 0.00
+02-11-2022 07:50 PM | Crunchie | B4 | $10.0 | $10.0
+02-11-2022 07:56 PM | Cowtales | B2 | $10.0 | $10.0
+02-11-2022 08:35 PM | ChangeTendered | N/A | $10.0 | 0.00
+02-11-2022 08:35 PM | Cloud Popcorn | A4 | $0.0 | $0.0
+02-11-2022 08:36 PM | Moonpie | B1 | $0.0 | $0.0
+02-11-2022 09:11 PM | Fed Money | N/A | 10 | 0
+02-11-2022 09:11 PM | Fed Money | N/A | 5 | 1000
+02-11-2022 09:11 PM | Grain Waves | A3 | $15.0 | $15.0
+02-11-2022 09:11 PM | Mountain Melter | C3 | $12.25 | $12.25
+02-11-2022 09:13 PM | Fed Money | N/A | 10 | $0.0
+02-11-2022 09:13 PM | Mountain Melter | C3 | $10.0 | $10.0
+02-11-2022 09:13 PM | Dispensed Change | N/A | $8.5 | 0.00
+02-11-2022 09:18 PM | Fed Money | N/A | 10 | $0.0
+02-11-2022 09:18 PM | Cloud Popcorn | A4 | $10.0 | $10.0
+02-11-2022 09:18 PM | Dispensed Change | N/A | $6.35 | 0.00
+02-11-2022 09:24 PM | Fed Money | N/A | 2 | $0
+02-11-2022 09:26 PM | Fed Money | N/A | 2 | $0
+02-11-2022 09:26 PM | Crunchie | B4 | $2.0 | $2.0
+02-11-2022 09:26 PM | Dispensed Change | N/A | $0.25 | 0.00
+02-11-2022 09:28 PM | Fed Money | N/A | 2 | $2
+02-11-2022 09:29 PM | Crunchie | B4 | $2.0 | $2.0
+02-11-2022 09:29 PM | Dispensed Change | N/A | $0.25 | 0.00
+02-11-2022 09:42 PM | Fed Money | N/A | 5 | $5
+02-11-2022 09:43 PM | Chiclets | D3 | $5.0 | $5.0
+02-11-2022 09:43 PM | U-Chews | D1 | $4.25 | $4.25
+02-11-2022 09:43 PM | Potato Crisps | A1 | $3.4 | $3.4
+02-11-2022 09:43 PM | Dispensed Change | N/A | $0.35 | 0.00
+02-11-2022 09:53 PM | Fed Money | N/A | 5 | $5
+02-11-2022 09:53 PM | Heavy | C4 | $5.0 | $5.0
+02-11-2022 09:54 PM | Grain Waves | A3 | $3.5 | $3.5
+02-11-2022 09:54 PM | Dispensed Change | N/A | $0.75 | 0.00
+02-11-2022 09:55 PM | Fed Money | N/A | 10 | $10
+02-11-2022 09:55 PM | Wonka Bar | B3 | $10.0 | $10.0
+02-11-2022 09:55 PM | Moonpie | B1 | $8.5 | $8.5
+02-11-2022 09:55 PM | Cloud Popcorn | A4 | $6.7 | $6.7
+02-11-2022 09:56 PM | Fed Money | N/A | 10 | $10
+02-11-2022 09:57 PM | Heavy | C4 | $10.0 | $10.0
+02-11-2022 09:57 PM | Cowtales | B2 | $8.5 | $8.5
+02-11-2022 09:57 PM | Wonka Bar | B3 | $7.0 | $7.0
+02-11-2022 09:57 PM | Cola | C1 | $5.5 | $5.5
+02-11-2022 09:57 PM | Chiclets | D3 | $4.25 | $4.25
+02-11-2022 09:58 PM | Triplemint | D4 | $3.5 | $3.5
+02-11-2022 09:58 PM | Grain Waves | A3 | $2.75 | $2.75
+02-11-2022 09:58 PM | Dispensed Change | N/A | $0.0 | 0.00
+02-11-2022 09:58 PM | Dispensed Change | N/A | $0.0 | 0.00
+02-11-2022 10:02 PM | Fed Money | N/A | 5 | $5
+02-11-2022 10:02 PM | Grain Waves | A3 | $5.0 | $5.0
+02-11-2022 10:02 PM | Dispensed Change | N/A | $2.25 | 0.00
+02-11-2022 10:05 PM | Fed Money | N/A | 5 | $5
+02-11-2022 10:05 PM | Wonka Bar | B3 | $5.0 | $5.0
+02-11-2022 10:05 PM | Dispensed Change | N/A | $3.5 | 0.00
+02-11-2022 10:29 PM | Fed Money | N/A | 2 | $2
+02-11-2022 10:30 PM | Fed Money | N/A | 2 | $202
+02-11-2022 10:31 PM | Cloud Popcorn | A4 | $4.0 | $4.0
+02-11-2022 10:31 PM | Dispensed Change | N/A | $0.35 | 0.00
+02-12-2022 09:09 AM | Fed Money | N/A | 5 | $5
+02-12-2022 09:09 AM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 09:09 AM | Dispensed Change | N/A | $2.25 | 0.00
+02-12-2022 09:33 AM | Fed Money | N/A | 2 | $2
+02-12-2022 09:33 AM | Fed Money | N/A | 5 | $5
+02-12-2022 09:34 AM | Stackers | A2 | $5.0 | $5.0
+02-12-2022 09:34 AM | Dispensed Change | N/A | $3.55 | 0.00
+02-12-2022 09:51 AM | Fed Money | N/A | 5 | $5
+02-12-2022 09:51 AM | Cloud Popcorn | A4 | $5.0 | $5.0
+02-12-2022 09:51 AM | Dispensed Change | N/A | $1.35 | 0.00
+02-12-2022 11:34 AM | Fed Money | N/A | 5 | $5
+02-12-2022 11:34 AM | Little League Chew | D2 | $5.0 | $5.0
+02-12-2022 11:34 AM | Dispensed Change | N/A | $4.05 | 0.00
+02-12-2022 11:37 AM | Fed Money | n/a | $5 | $5
+02-12-2022 11:37 AM | Crunchie | B4 | $5.0 | $5.0
+02-12-2022 11:58 AM | Fed Money | n/a | $5 | $5
+02-12-2022 11:58 AM | Chiclets | D3 | $5.0 | $5.0
+02-12-2022 11:58 AM | Stackers | A2 | $4.25 | $4.25
+02-12-2022 12:14 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 12:41 PM | Fed Money | n/a | $5 | $5
+02-12-2022 12:41 PM | Dispensed Change | n/a | $5.0 | 0.00
+02-12-2022 12:56 PM | Fed Money | n/a | $10 | $10
+02-12-2022 12:56 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 12:57 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 01:05 PM | Fed Money | n/a | $5 | $5
+02-12-2022 01:05 PM | Fed Money | n/a | $1 | $501
+02-12-2022 01:05 PM | Fed Money | n/a | $2 | $602
+02-12-2022 01:05 PM | Fed Money | n/a | $10 | $810
+02-12-2022 01:05 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 01:05 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 01:06 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 01:06 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 01:06 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 01:06 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 01:06 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 01:08 PM | Fed Money | n/a | $1 | $1
+02-12-2022 01:08 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 01:08 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 01:09 PM | Fed Money | n/a | $2 | $2
+02-12-2022 01:09 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 01:09 PM | Fed Money | n/a | $1 | $51
+02-12-2022 01:15 PM | Fed Money | n/a | $2 | $2
+02-12-2022 01:15 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 01:15 PM | Fed Money | n/a | $1 | $51
+02-12-2022 01:18 PM | Fed Money | n/a | $1 | $1
+02-12-2022 01:18 PM | Fed Money | n/a | $2 | $102
+02-12-2022 01:18 PM | Wonka Bar | B3 | $3.0 | $3.0
+02-12-2022 01:18 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 01:20 PM | Fed Money | n/a | $10 | $10
+02-12-2022 01:20 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 01:20 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 01:25 PM | Fed Money | n/a | $5 | $5
+02-12-2022 01:25 PM | Fed Money | n/a | $1 | $501
+02-12-2022 01:25 PM | Fed Money | n/a | $2 | $602
+02-12-2022 01:25 PM | Fed Money | n/a | $10 | $810
+02-12-2022 01:25 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 01:25 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 01:25 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 01:25 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 01:25 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 01:25 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 01:25 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 01:27 PM | Fed Money | n/a | $1 | $1
+02-12-2022 01:27 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 01:27 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 01:29 PM | Fed Money | n/a | $2 | $2
+02-12-2022 01:29 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 01:29 PM | Fed Money | n/a | $1 | $51
+02-12-2022 01:29 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 01:29 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 01:33 PM | Fed Money | n/a | $2 | $2
+02-12-2022 01:33 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 01:33 PM | Fed Money | n/a | $1 | $51
+02-12-2022 01:33 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 01:33 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 01:33 PM | Fed Money | n/a | $42 | $42
+02-12-2022 01:34 PM | Fed Money | n/a | $44 | $44
+02-12-2022 01:35 PM | Fed Money | n/a | $33 | $33
+02-12-2022 01:39 PM | Fed Money | n/a | $22 | $22
+02-12-2022 01:46 PM | Fed Money | n/a | $1 | $1
+02-12-2022 01:53 PM | Fed Money | n/a | $1 | $1
+02-12-2022 01:53 PM | Fed Money | n/a | $33 | $133
+02-12-2022 01:53 PM | Fed Money | n/a | $33 | $133
+02-12-2022 02:01 PM | Fed Money | n/a | $5 | $5
+02-12-2022 02:01 PM | Fed Money | n/a | $1 | $501
+02-12-2022 02:01 PM | Fed Money | n/a | $2 | $602
+02-12-2022 02:01 PM | Fed Money | n/a | $10 | $810
+02-12-2022 02:01 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 02:01 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 02:01 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 02:01 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 02:01 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 02:01 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 02:01 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 02:01 PM | Fed Money | n/a | $10 | $10
+02-12-2022 02:01 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 02:01 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 02:01 PM | Fed Money | n/a | $1 | $1
+02-12-2022 02:01 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 02:01 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 02:01 PM | Fed Money | n/a | $2 | $2
+02-12-2022 02:01 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 02:01 PM | Fed Money | n/a | $1 | $51
+02-12-2022 02:01 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 02:01 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 02:01 PM | Fed Money | n/a | $33 | $33
+02-12-2022 02:02 PM | Fed Money | n/a | $5 | $5
+02-12-2022 02:02 PM | Fed Money | n/a | $1 | $501
+02-12-2022 02:02 PM | Fed Money | n/a | $2 | $602
+02-12-2022 02:02 PM | Fed Money | n/a | $10 | $810
+02-12-2022 02:02 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 02:02 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 02:02 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 02:02 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 02:02 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 02:02 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 02:02 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 02:02 PM | Fed Money | n/a | $10 | $10
+02-12-2022 02:02 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 02:02 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 02:02 PM | Fed Money | n/a | $1 | $1
+02-12-2022 02:02 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 02:02 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 02:02 PM | Fed Money | n/a | $2 | $2
+02-12-2022 02:02 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 02:02 PM | Fed Money | n/a | $1 | $51
+02-12-2022 02:02 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 02:02 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 02:02 PM | Fed Money | n/a | $33 | $33
+02-12-2022 02:08 PM | Fed Money | n/a | $5 | $5
+02-12-2022 02:08 PM | U-Chews | D1 | $5.0 | $5.0
+02-12-2022 02:08 PM | Fed Money | n/a | $5 | $5
+02-12-2022 02:08 PM | U-Chews | D1 | $5.0 | $5.0
+02-12-2022 02:09 PM | Fed Money | n/a | $5 | $5
+02-12-2022 02:09 PM | U-Chews | D1 | $5.0 | $5.0
+02-12-2022 02:10 PM | Fed Money | n/a | $2 | $2
+02-12-2022 02:11 PM | Triplemint | D4 | $2.0 | $2.0
+02-12-2022 02:12 PM | Chiclets | D3 | $1.25 | $1.25
+02-12-2022 02:13 PM | Dispensed Change | n/a | $0.5 | 0.00
+02-12-2022 02:14 PM | Fed Money | n/a | $2 | $2
+02-12-2022 02:14 PM | Triplemint | D4 | $2.0 | $2.0
+02-12-2022 02:14 PM | Chiclets | D3 | $1.25 | $1.25
+02-12-2022 02:15 PM | Fed Money | n/a | $2 | $2
+02-12-2022 02:15 PM | Triplemint | D4 | $2.0 | $2.0
+02-12-2022 02:15 PM | Chiclets | D3 | $1.25 | $1.25
+02-12-2022 02:29 PM | Fed Money | n/a | $1 | $1
+02-12-2022 02:40 PM | Fed Money | n/a | $1 | $1
+02-12-2022 02:41 PM | Fed Money | n/a | $1 | $1
+02-12-2022 02:43 PM | Fed Money | n/a | $1 | $1
+02-12-2022 03:00 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:00 PM | Potato Crisps | A1 | $5.0 | $5.0
+02-12-2022 03:00 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:00 PM | Potato Crisps | A1 | $5.0 | $5.0
+02-12-2022 03:12 PM | Fed Money | n/a | $2 | $2
+02-12-2022 03:13 PM | Fed Money | n/a | $1 | $201
+02-12-2022 03:13 PM | Fed Money | n/a | $1 | $301
+02-12-2022 03:13 PM | Cloud Popcorn | A4 | $4.0 | $4.0
+02-12-2022 03:13 PM | Dispensed Change | n/a | $0.35 | 0.00
+02-12-2022 03:15 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:15 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:16 PM | Dispensed Change | n/a | $2.25 | 0.00
+02-12-2022 03:17 PM | Fed Money | n/a | $1 | $1
+02-12-2022 03:17 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:17 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:18 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:18 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:22 PM | Fed Money | n/a | $1 | $1
+02-12-2022 03:22 PM | Fed Money | n/a | $2 | $102
+02-12-2022 03:22 PM | Fed Money | n/a | $1 | $301
+02-12-2022 03:22 PM | Grain Waves | A3 | $4.0 | $4.0
+02-12-2022 03:23 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:23 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:26 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:26 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:37 PM | Fed Money | n/a | $1 | $1
+02-12-2022 03:53 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:53 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:54 PM | Dispensed Change | n/a | $2.25 | 0.00
+02-12-2022 03:58 PM | Fed Money | n/a | $5 | $5
+02-12-2022 03:58 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 03:59 PM | Fed Money | n/a | $5 | $5
+02-12-2022 04:00 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 04:01 PM | Fed Money | n/a | $5 | $5
+02-12-2022 04:01 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 04:03 PM | Fed Money | n/a | $5 | $5
+02-12-2022 04:03 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 04:11 PM | Fed Money | n/a | $5 | $5
+02-12-2022 04:11 PM | Fed Money | n/a | $1 | $501
+02-12-2022 04:11 PM | Fed Money | n/a | $2 | $602
+02-12-2022 04:11 PM | Fed Money | n/a | $10 | $810
+02-12-2022 04:11 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 04:11 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 04:11 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 04:11 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 04:11 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 04:11 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 04:11 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 04:11 PM | Fed Money | n/a | $2 | $2
+02-12-2022 04:11 PM | Triplemint | D4 | $2.0 | $2.0
+02-12-2022 04:11 PM | Chiclets | D3 | $1.25 | $1.25
+02-12-2022 04:11 PM | Fed Money | n/a | $10 | $10
+02-12-2022 04:11 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 04:11 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 04:11 PM | Fed Money | n/a | $1 | $1
+02-12-2022 04:11 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 04:11 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 04:11 PM | Fed Money | n/a | $2 | $2
+02-12-2022 04:11 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 04:11 PM | Fed Money | n/a | $1 | $51
+02-12-2022 04:11 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 04:11 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 04:11 PM | Fed Money | n/a | $33 | $33
+02-12-2022 05:30 PM | Fed Money | n/a | $5 | $5
+02-12-2022 05:30 PM | Grain Waves | A3 | $5.0 | $5.0
+02-12-2022 05:34 PM | Fed Money | n/a | $5 | $5
+02-12-2022 05:34 PM | Fed Money | n/a | $5 | $5
+02-12-2022 06:38 PM | Fed Money | n/a | $5 | $5
+02-12-2022 06:38 PM | Fed Money | n/a | $1 | $501
+02-12-2022 06:38 PM | Fed Money | n/a | $2 | $602
+02-12-2022 06:38 PM | Fed Money | n/a | $10 | $810
+02-12-2022 06:38 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 06:38 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 06:38 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 06:38 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 06:38 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 06:38 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 06:38 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 06:38 PM | Fed Money | n/a | $2 | $2
+02-12-2022 06:38 PM | Triplemint | D4 | $2.0 | $2.0
+02-12-2022 06:38 PM | Chiclets | D3 | $1.25 | $1.25
+02-12-2022 06:38 PM | Fed Money | n/a | $10 | $10
+02-12-2022 06:38 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 06:38 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 06:38 PM | Fed Money | n/a | $1 | $1
+02-12-2022 06:38 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 06:38 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 06:38 PM | Fed Money | n/a | $2 | $2
+02-12-2022 06:38 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 06:38 PM | Fed Money | n/a | $1 | $51
+02-12-2022 06:38 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 06:38 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 06:38 PM | Fed Money | n/a | $33 | $33
+02-12-2022 08:36 PM | Fed Money | n/a | $5 | $5
+02-12-2022 08:36 PM | Fed Money | n/a | $1 | $501
+02-12-2022 08:36 PM | Fed Money | n/a | $2 | $602
+02-12-2022 08:36 PM | Fed Money | n/a | $10 | $810
+02-12-2022 08:36 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-12-2022 08:36 PM | U-Chews | D1 | $14.95 | $14.95
+02-12-2022 08:36 PM | Little League Chew | D2 | $14.1 | $14.1
+02-12-2022 08:36 PM | Grain Waves | A3 | $13.15 | $13.15
+02-12-2022 08:36 PM | Cowtales | B2 | $10.4 | $10.4
+02-12-2022 08:36 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-12-2022 08:36 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-12-2022 08:36 PM | Fed Money | n/a | $2 | $2
+02-12-2022 08:36 PM | Triplemint | D4 | $2.0 | $2.0
+02-12-2022 08:36 PM | Chiclets | D3 | $1.25 | $1.25
+02-12-2022 08:36 PM | Fed Money | n/a | $10 | $10
+02-12-2022 08:36 PM | Grain Waves | A3 | $10.0 | $10.0
+02-12-2022 08:36 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-12-2022 08:36 PM | Fed Money | n/a | $1 | $1
+02-12-2022 08:36 PM | U-Chews | D1 | $1.0 | $1.0
+02-12-2022 08:36 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-12-2022 08:36 PM | Fed Money | n/a | $2 | $2
+02-12-2022 08:36 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-12-2022 08:36 PM | Fed Money | n/a | $1 | $51
+02-12-2022 08:36 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-12-2022 08:36 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-12-2022 08:36 PM | Fed Money | n/a | $33 | $33
+02-12-2022 08:44 PM | Fed Money | n/a | $5 | $5
+02-12-2022 08:44 PM | Potato Crisps | A1 | $5.0 | $5.0
+02-12-2022 08:45 PM | Heavy | C4 | $1.95 | $1.95
+02-12-2022 08:45 PM | Dispensed Change | n/a | $0.45 | 0.00
+02-12-2022 08:45 PM | Fed Money | n/a | $2 | $2
+02-12-2022 09:58 PM | Fed Money | n/a | $2 | $2
+02-12-2022 09:58 PM | Fed Money | n/a | $2 | $202
+02-12-2022 09:58 PM | Fed Money | n/a | $2 | $402
+02-12-2022 09:58 PM | Fed Money | n/a | $2 | $602
+02-12-2022 09:58 PM | Fed Money | n/a | $2 | $802
+02-12-2022 09:58 PM | Potato Crisps | A1 | $10.0 | $10.0
+02-12-2022 09:58 PM | Potato Crisps | A1 | $6.95 | $6.95
+02-12-2022 09:58 PM | Potato Crisps | A1 | $3.9 | $3.9
+02-12-2022 09:59 PM | U-Chews | D1 | $0.85 | $0.85
+02-12-2022 09:59 PM | Fed Money | n/a | $10 | $10
+02-12-2022 09:59 PM | Potato Crisps | A1 | $10.0 | $10.0
+02-12-2022 09:59 PM | Potato Crisps | A1 | $6.95 | $6.95
+02-12-2022 09:59 PM | Cloud Popcorn | A4 | $3.9 | $3.9
+02-12-2022 10:00 PM | Fed Money | n/a | $1 | $26
+02-12-2022 10:00 PM | Cola | C1 | $1.25 | $1.25
+02-12-2022 10:00 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-13-2022 09:58 AM | Fed Money | n/a | $5 | $5
+02-13-2022 10:02 AM | Fed Money | n/a | $5 | $5
+02-13-2022 10:04 AM | Fed Money | n/a | $5 | $5
+02-13-2022 10:06 AM | Fed Money | n/a | $5 | $5
+02-13-2022 10:31 AM | Fed Money | n/a | $5 | $5
+02-13-2022 10:31 AM | "The delete key is for deleting." | B1 | $5.0 | $5.0
+02-13-2022 10:31 AM | Dispensed Change | n/a | $3.2 | 0.00
+02-13-2022 11:19 AM | Fed Money | n/a | $5 | $5
+02-13-2022 12:02 PM | Fed Money | n/a | $5 | $5
+02-13-2022 12:14 PM | Fed Money | n/a | $5 | $5
+02-13-2022 12:16 PM | Fed Money | n/a | $5 | $5
+02-13-2022 12:16 PM | Cloud Popcorn | A4 | $5.0 | $5.0
+02-13-2022 12:19 PM | Fed Money | n/a | $5 | $5
+02-13-2022 12:19 PM | Crunchie | B4 | $5.0 | $5.0
+02-13-2022 12:19 PM | Dispensed Change | n/a | $3.25 | 0.00
+02-13-2022 12:27 PM | Fed Money | n/a | $5 | $5
+02-13-2022 12:27 PM | Mountain Melter | c3 | $5.0 | $5.0
+02-13-2022 12:28 PM | Fed Money | n/a | $5 | $5
+02-13-2022 12:28 PM | Cola | c1 | $5.0 | $5.0
+02-13-2022 12:28 PM | Crunchie | b4 | $3.75 | $3.75
+02-13-2022 12:28 PM | Dr. Salt | c2 | $2.0 | $2.0
+02-13-2022 12:35 PM | Fed Money | n/a | $5 | $5
+02-13-2022 01:00 PM | Fed Money | n/a | $5 | $5
+02-13-2022 01:10 PM | Fed Money | n/a | $10 | $10
+02-13-2022 01:10 PM | Fed Money | n/a | $1 | $1001
+02-13-2022 01:13 PM | Fed Money | n/a | $5 | $5
+02-13-2022 01:13 PM | Fed Money | n/a | $1 | $501
+02-13-2022 01:13 PM | Fed Money | n/a | $2 | $602
+02-13-2022 01:13 PM | Fed Money | n/a | $10 | $810
+02-13-2022 01:13 PM | Potato Crisps | A1 | $18.0 | $18.0
+02-13-2022 01:13 PM | U-Chews | D1 | $14.95 | $14.95
+02-13-2022 01:13 PM | Little League Chew | D2 | $14.1 | $14.1
+02-13-2022 01:13 PM | Grain Waves | A3 | $13.15 | $13.15
+02-13-2022 01:13 PM | Cowtales | B2 | $10.4 | $10.4
+02-13-2022 01:13 PM | Wonka Bar | B3 | $8.9 | $8.9
+02-13-2022 01:13 PM | Dispensed Change | n/a | $7.4 | 0.00
+02-13-2022 01:13 PM | Fed Money | n/a | $2 | $2
+02-13-2022 01:13 PM | Triplemint | D4 | $2.0 | $2.0
+02-13-2022 01:13 PM | Chiclets | D3 | $1.25 | $1.25
+02-13-2022 01:13 PM | Fed Money | n/a | $10 | $10
+02-13-2022 01:13 PM | Grain Waves | A3 | $10.0 | $10.0
+02-13-2022 01:13 PM | Dispensed Change | n/a | $7.25 | 0.00
+02-13-2022 01:13 PM | Fed Money | n/a | $1 | $1
+02-13-2022 01:13 PM | U-Chews | D1 | $1.0 | $1.0
+02-13-2022 01:13 PM | Dispensed Change | n/a | $0.15 | 0.00
+02-13-2022 01:13 PM | Fed Money | n/a | $2 | $2
+02-13-2022 01:13 PM | Dr. Salt | C2 | $2.0 | $2.0
+02-13-2022 01:13 PM | Fed Money | n/a | $1 | $51
+02-13-2022 01:13 PM | Wonka Bar | B3 | $1.5 | $1.5
+02-13-2022 01:13 PM | Dispensed Change | n/a | $0.0 | 0.00
+02-13-2022 01:13 PM | Fed Money | n/a | $33 | $33
+02-13-2022 01:34 PM | Fed Money | n/a | $5 | $5
+02-13-2022 01:34 PM | Crunchie | B4 | $5.0 | $5.0
+02-13-2022 01:35 PM | Fed Money | n/a | $3 | $3
+02-13-2022 01:35 PM | Fed Money | n/a | $3 | $3
+02-13-2022 01:36 PM | Fed Money | n/a | $1 | $1
+02-13-2022 01:37 PM | Fed Money | n/a | $3 | $103
+02-13-2022 01:41 PM | Fed Money | n/a | $3 | $3
+02-13-2022 01:50 PM | Fed Money | n/a | $5 | $5
+02-13-2022 01:50 PM | Cloud Popcorn | A4 | $5.0 | $5.0
+02-13-2022 01:50 PM | Dispensed Change | n/a | $1.35 | 0.00
+02-13-2022 01:53 PM | Fed Money | n/a | $3 | $3
+02-13-2022 02:00 PM | Fed Money | n/a | $3 | $3
+02-13-2022 02:02 PM | Fed Money | n/a | $5 | $5
+02-13-2022 02:02 PM | Potato Crisps | A1 | $5.0 | $5.0
+02-13-2022 02:07 PM | Fed Money | n/a | $5 | $5
+02-13-2022 02:08 PM | Fed Money | n/a | $5 | $5
+02-13-2022 02:08 PM | Grain Waves | A3 | $5.0 | $5.0
+02-13-2022 02:15 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:40 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:43 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:45 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:46 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:48 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:48 PM | Fed Money | n/a | $1 | $501
+02-13-2022 05:54 PM | Fed Money | n/a | $1 | $1
+02-13-2022 05:54 PM | Fed Money | n/a | $1 | $101
+02-13-2022 05:57 PM | Fed Money | n/a | $5 | $5
+02-13-2022 05:57 PM | Cloud Popcorn | A4 | $5.0 | $5.0
+02-13-2022 05:57 PM | Cola | C1 | $1.35 | $1.35
+02-13-2022 05:59 PM | Fed Money | n/a | $5 | $5
+02-13-2022 06:01 PM | Fed Money | n/a | $5 | $5
+02-13-2022 06:01 PM | Cloud Popcorn | A4 | $5.0 | $5.0
+02-13-2022 06:01 PM | Dispensed Change | n/a | $1.35 | 0.00
+02-13-2022 06:35 PM | Fed Money | n/a | $2 | $2
+02-13-2022 06:36 PM | Crunchie | B4 | $2.0 | $2.0
+02-13-2022 06:36 PM | Dispensed Change | n/a | $0.25 | 0.00
